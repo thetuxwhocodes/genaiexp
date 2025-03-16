@@ -1,1 +1,1 @@
-# genaiexp
+Generative AI code experiments
